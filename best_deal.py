@@ -1,4 +1,3 @@
-'''
 from urllib.request import urlopen as uReq 
 from bs4 import BeautifulSoup as soup
 from csv import writer
@@ -176,4 +175,3 @@ small=min(s1,s2,s3,s4,s5)
 print(small," is small")
 print("**************___completed____********************")
 input()
-'''
